@@ -1,4 +1,4 @@
-function Airport() {
+function Airport(weather) {
   this.loadingBay = [];
 }
 
